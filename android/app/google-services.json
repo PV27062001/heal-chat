@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226460439398",
+    "project_id": "heal-chat-510ce",
+    "storage_bucket": "heal-chat-510ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226460439398:android:4964140c71a7b1d77ceea7",
+        "android_client_info": {
+          "package_name": "com.example.heal_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226460439398-6t7f95q2jrmp90fouksgggr2e21r2c17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_3tEUONvsLZHL72Q12EmKSY9o0MbHA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226460439398-6t7f95q2jrmp90fouksgggr2e21r2c17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
